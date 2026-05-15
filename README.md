@@ -2,7 +2,7 @@
 
 **Build a memory-aware enterprise data agent on Oracle AI Database 26ai — then see it running in a real chat UI.**
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/speechlyze/enterprise-data-agent-harness-workshop)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/speechlyze/enterprise-data-agent-harness-workshop-lightweight)
 
 ---
 
